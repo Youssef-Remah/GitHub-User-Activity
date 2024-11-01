@@ -1,0 +1,15 @@
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\bin\Debug\net8.0\GitHubUserActivity.exe
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\bin\Debug\net8.0\GitHubUserActivity.deps.json
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\bin\Debug\net8.0\GitHubUserActivity.runtimeconfig.json
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\bin\Debug\net8.0\GitHubUserActivity.dll
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\bin\Debug\net8.0\GitHubUserActivity.pdb
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.AssemblyInfoInputs.cache
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.AssemblyInfo.cs
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.csproj.CoreCompileInputs.cache
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.sourcelink.json
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.dll
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\refint\GitHubUserActivity.dll
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.pdb
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\GitHubUserActivity.genruntimeconfig.cache
+D:\C#_Projects\GitHubUserActivity\GitHubUserActivity\obj\Debug\net8.0\ref\GitHubUserActivity.dll
